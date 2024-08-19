@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "9ac6169e08805073",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9bfdc65484caa8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GPIO/代码配置.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58e40e99c3f47ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "551c54228e144a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a5a6406b9633bb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43711769d556e75d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "189e83743b6f64b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c41d57e038ae18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea38d50b5dc5790",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GPIO/代码配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9bfdc65484caa8f",
+  "lastOpenFiles": [
+    "GPIO/代码配置.md"
+  ]
+}
