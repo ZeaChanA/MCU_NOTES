@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GPIO/代码配置.md",
+            "file": "ESP8266连接阿里云/阿里云物联网平台配置.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPIO/代码配置.md",
+                "file": "ESP8266连接阿里云/阿里云物联网平台配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,9 @@
   },
   "active": "d9bfdc65484caa8f",
   "lastOpenFiles": [
+    "ESP8266连接阿里云/阿里云物联网平台配置.md",
+    "02_attachment/Pasted image 20240827012847.png",
+    "02_attachment/Pasted image 20240827012546.png",
     "GPIO/代码配置.md",
     "02_attachment/Pasted image 20240820003257.png"
   ]
