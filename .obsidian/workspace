@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FreeRTOS/00 前缀.md",
+            "file": "FreeRTOS/03 任务句柄 (重点).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeRTOS/00 前缀.md",
+                "file": "FreeRTOS/03 任务句柄 (重点).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d9bfdc65484caa8f",
   "lastOpenFiles": [
+    "FreeRTOS/03 任务句柄 (重点).md",
+    "FreeRTOS/02任务.md",
+    "FreeRTOS/01 数据类型和编程规范.md",
     "FreeRTOS/00 前缀.md",
-    "FreeRTOS/任务.md",
+    "杂记/命名以 _t 结尾.md",
     "杂记/函数指针.md",
     "杂记/堆和栈.md",
     "杂记/模拟 malloc 函数.md",
     "MQTT/MQTT 理论知识.md",
-    "ESP8266连接阿里云/mqtt.fx 模拟 MQTT 客户端发布与订阅信息.md",
-    "ESP8266连接阿里云/阿里云 IOT studio 界面绘制.md",
-    "ESP8266连接阿里云/阿里云物联网平台配置.md",
-    "02_attachment/Pasted image 20240827012847.png"
+    "ESP8266连接阿里云/mqtt.fx 模拟 MQTT 客户端发布与订阅信息.md"
   ]
 }
