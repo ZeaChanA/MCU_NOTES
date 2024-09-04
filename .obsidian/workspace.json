@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "按键扫描.md",
+                "file": "GPIO/代码配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "按键扫描.md",
+                "file": "GPIO/代码配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,33 @@
   },
   "active": "f9283a3c556bf237",
   "lastOpenFiles": [
-    "GPIO/代码配置.md",
-    "按键扫描.md"
+    "FreeRTOS/03 任务句柄 (重点).md",
+    "FreeRTOS/02 任务.md",
+    "FreeRTOS/00 前缀.md",
+    "按键扫描.md",
+    "杂记/堆和栈.md",
+    "杂记/模拟 malloc 函数.md",
+    "杂记/命名以 _t 结尾.md",
+    "杂记/函数指针.md",
+    "杂记",
+    "MQTT/MQTT 理论知识.md",
+    "MQTT",
+    "FreeRTOS/01 数据类型和编程规范.md",
+    "FreeRTOS",
+    "ESP8266连接阿里云/阿里云物联网平台配置.md",
+    "ESP8266连接阿里云/阿里云 IOT studio 界面绘制.md",
+    "ESP8266连接阿里云/mqtt.fx 模拟 MQTT 客户端发布与订阅信息.md",
+    "ESP8266连接阿里云",
+    "02_attachment/mqtt-publish-subscribe.png",
+    "02_attachment/Pasted image 20240831103111.png",
+    "02_attachment/Pasted image 20240828060153.png",
+    "02_attachment/Pasted image 20240828055416.png",
+    "02_attachment/Pasted image 20240828055004.png",
+    "02_attachment/Pasted image 20240828004928.png",
+    "02_attachment/Pasted image 20240828004838.png",
+    "02_attachment/Pasted image 20240827232405.png",
+    "02_attachment/Pasted image 20240827232300.png",
+    "02_attachment/Pasted image 20240827232201.png",
+    "GPIO/代码配置.md"
   ]
 }
