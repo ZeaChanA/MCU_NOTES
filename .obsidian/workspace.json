@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "485bf2d4c1311e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e1dd00432c93d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a288825497aaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPIO/代码配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9283a3c556bf237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "按键扫描.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a496e66e99a7bb60",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f968058e89f9eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ecbca7e698a2f4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c33057c0edb3218f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a19547ff3f21b09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bea6d0898f7ef5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01850828bb7404ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939522a24761bc16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "按键扫描.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "f9283a3c556bf237",
+  "lastOpenFiles": [
+    "GPIO/代码配置.md",
+    "按键扫描.md"
+  ]
+}
