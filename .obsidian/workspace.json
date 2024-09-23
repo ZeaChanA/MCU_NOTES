@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeRTOS/08 同步与互斥.md",
+                "file": "杂记/函数指针.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeRTOS/08 同步与互斥.md",
+                "file": "杂记/函数指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +114,20 @@
   },
   "active": "f9283a3c556bf237",
   "lastOpenFiles": [
-    "FreeRTOS/07 两个Delay函数.md",
-    "FreeRTOS/08 同步与互斥.md",
-    "02_attachment/Pasted image 20240910171745.png",
+    "杂记/命名以 _t 结尾.md",
     "FreeRTOS/05 任务管理与调度.md",
     "FreeRTOS/04 任务状态.md",
     "FreeRTOS/06 空闲任务.md",
+    "FreeRTOS/03 任务句柄 (重点).md",
+    "FreeRTOS/09 消息队列(queue).md",
+    "02_attachment/Pasted image 20240912135333.png",
+    "FreeRTOS/08 同步与互斥.md",
+    "02_attachment/Pasted image 20240910234134.png",
+    "FreeRTOS/07 两个Delay函数.md",
+    "02_attachment/Pasted image 20240910171745.png",
     "02_attachment/Pasted image 20240910141915.png",
     "FreeRTOS/02 任务.md",
     "02_attachment/Pasted image 20240909163434.png",
-    "FreeRTOS/03 任务句柄 (重点).md",
-    "杂记/命名以 _t 结尾.md",
     "杂记/函数指针.md",
     "杂记/堆和栈.md",
     "杂记/模拟 malloc 函数.md",
@@ -144,8 +147,6 @@
     "02_attachment/Pasted image 20240831103111.png",
     "02_attachment/Pasted image 20240828060153.png",
     "02_attachment/Pasted image 20240828055416.png",
-    "02_attachment/Pasted image 20240828055004.png",
-    "02_attachment/Pasted image 20240828004928.png",
-    "02_attachment/Pasted image 20240828004838.png"
+    "02_attachment/Pasted image 20240828055004.png"
   ]
 }
