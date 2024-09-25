@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d9bfdc65484caa8f",
+        "id": "fc8a51528167d180",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FreeRTOS/03 任务句柄 (重点).md",
+            "file": "杂记/中断向量表.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeRTOS/03 任务句柄 (重点).md",
+                "file": "杂记/中断向量表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9bfdc65484caa8f",
+  "active": "fc8a51528167d180",
   "lastOpenFiles": [
-    "FreeRTOS/03 任务句柄 (重点).md",
-    "FreeRTOS/02任务.md",
-    "FreeRTOS/01 数据类型和编程规范.md",
-    "FreeRTOS/00 前缀.md",
-    "杂记/命名以 _t 结尾.md",
-    "杂记/函数指针.md",
-    "杂记/堆和栈.md",
-    "杂记/模拟 malloc 函数.md",
-    "MQTT/MQTT 理论知识.md",
-    "ESP8266连接阿里云/mqtt.fx 模拟 MQTT 客户端发布与订阅信息.md"
+    "杂记/中断向量表.md",
+    "杂记/ISR（中断服务例程）.md",
+    "协议/IIC/通信过程.md",
+    "杂记/程序计数器（PC）.md",
+    "杂记/上下文.md",
+    "杂记/单工、半双工和全双工.md",
+    "杂记/同步与异步通信.md",
+    "FreeRTOS/08 同步与互斥.md",
+    "协议/SPI/5个参数.md",
+    "协议/SPI/总线结构.md"
   ]
 }
