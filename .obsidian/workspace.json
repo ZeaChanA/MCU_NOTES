@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/函数指针.md",
+                "file": "Motor/PID/原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记/函数指针.md",
+                "file": "Motor/PID/原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,13 @@
   },
   "active": "f9283a3c556bf237",
   "lastOpenFiles": [
+    "Motor/BLDC/运行原理.md",
+    "Motor/PID/原理.md",
+    "Motor/PID",
+    "FreeRTOS/00 前缀.md",
+    "Motor/BLDC",
+    "Motor",
+    "杂记/函数指针.md",
     "杂记/命名以 _t 结尾.md",
     "FreeRTOS/05 任务管理与调度.md",
     "FreeRTOS/04 任务状态.md",
@@ -128,14 +135,12 @@
     "02_attachment/Pasted image 20240910141915.png",
     "FreeRTOS/02 任务.md",
     "02_attachment/Pasted image 20240909163434.png",
-    "杂记/函数指针.md",
     "杂记/堆和栈.md",
     "杂记/模拟 malloc 函数.md",
     "GPIO/代码配置.md",
     "ESP8266连接阿里云/mqtt.fx 模拟 MQTT 客户端发布与订阅信息.md",
     "ESP8266连接阿里云/阿里云 IOT studio 界面绘制.md",
     "ESP8266连接阿里云/阿里云物联网平台配置.md",
-    "FreeRTOS/00 前缀.md",
     "按键扫描.md",
     "杂记",
     "MQTT/MQTT 理论知识.md",
