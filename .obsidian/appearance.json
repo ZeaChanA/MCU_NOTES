@@ -1,4 +1,6 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 21
+  "baseFontSize": 37,
+  "theme": "obsidian",
+  "cssTheme": "Things"
 }
