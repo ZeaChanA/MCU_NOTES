@@ -82,3 +82,45 @@ GT24C16C地址范围
 0x1010 0000       0x1010 0000
 第24页
 0x1010 0000       0x1010 0000
+
+
+
+
+
+--- 
+## use
+- Block 0
+	- 0x30: angle_offset——郭
+- Block 1
+	- SN码——郭
+- Block 2
+- Block 3
+- Block 4
+- Block 5
+- Block 6
+- Block 7
+
+
+
+
+--- 
+## I2C
+
+- I2C_DRV_MasterSetSlaveAddr(0, EEP_BLOCK1, 0);
+![[Pasted image 20241128001101.png]]
+![[Pasted image 20241128000926.png]]
+
+---
+- I2C_TransmitData(Angle_Tef_H, 17);
+![[Pasted image 20241128005130.png]]
+![[Pasted image 20241128001302.png]]
+![[Pasted image 20241128001448.png]]
+![[Pasted image 20241128004943.png]]
+![[Pasted image 20241128003742.png]]
+![[Pasted image 20241128003857.png]]
+![[Pasted image 20241128003922.png]]
+![[Pasted image 20241128003944.png]]
+![[Pasted image 20241128003957.png]]
+![[Pasted image 20241128004154.png]]
+![[Pasted image 20241128004212.png]]
+

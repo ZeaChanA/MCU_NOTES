@@ -4,5 +4,6 @@
   "livePreview": true,
   "attachmentFolderPath": "02_attachment",
   "showLineNumber": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "promptDelete": false
 }

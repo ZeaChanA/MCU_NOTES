@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00_Work/TOPBAND.md",
+            "file": "00_Work/ZLG.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Work/TOPBAND.md",
+                "file": "00_Work/ZLG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fc8a51528167d180",
   "lastOpenFiles": [
-    "00_Work/TOPBAND.md",
-    "00_Work/调试.md",
-    "00_Work/EEPROM.md",
-    "杂记/条件编译.md",
-    "00_Work/杰发.md",
-    "杂记/单工、半双工和全双工.md",
-    "00_Work/UART示波器.md",
-    "00_Work/曲线拟合.md",
-    "GPIO/代码配置.md",
-    "时钟树.md"
+    "00_Work/ZLG.md",
+    "00_Work/Debug.md",
+    "00_Work/Daily Task List/2024-12-04.md",
+    "00_Work/Time Test.md",
+    "00_Work/00 work report.md",
+    "00_Work/28183-public.md",
+    "00_Work/Curve Fitting.md",
+    "00_Work/Daily Task List/2024-12-03.md",
+    "00_Work/Daily Task List/2024-12-02.md",
+    "00_Work/2024-12-03.md"
   ]
 }

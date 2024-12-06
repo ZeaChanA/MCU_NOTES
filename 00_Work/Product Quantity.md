@@ -1,0 +1,3 @@
+- 开环板
+	- PROTECT: 22 + 2
+	- PUBLIC: 12
